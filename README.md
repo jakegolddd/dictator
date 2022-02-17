@@ -1,1 +1,2 @@
 # dictator
+editing readme
